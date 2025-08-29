@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Perdido no Mapa",
+    "description": "Todo grande orientista já começou perdido alguma vez. Este desafio é o seu primeiro passo - cada símbolo decifrado é um passo a menos no mato errado! Complete seu primeiro desafio!",
+    "category": "mixed",
+    "difficulty": 1,
+    "quiz": "map",
+    "time": 0
+  },
+  {
+    "id": 2,
+    "name": "Primeiro prisma",
+    "description": "Você vê laranja e branco lá longe. Será seu prisma ou a barraca de pipoca do parque?",
+    "category": "mixed",
+    "difficulty": 1,
+    "quiz": "control",
+    "time": 0
+  },
+  {
+    "id": 3,
+    "name": "Segundo prisma",
+    "description": "Você vê laranja e branco lá longe. Será seu prisma ou a barraca de pipoca do parque?",
+    "category": "mixed",
+    "difficulty": 1,
+    "quiz": "control",
+    "time": 0
+  }
+]
