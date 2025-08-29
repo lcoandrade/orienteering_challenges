@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Lost on the Map",
+    "description": "Every great orienteer started out lost at some point. This challenge is your first step – each symbol deciphered is one less step in the wrong direction! Complete your first challenge!",
+    "category": "mixed",
+    "difficulty": 1,
+    "quiz": "map",
+    "time": 0
+  },
+  {
+    "id": 2,
+    "name": "First Control",
+    "description": "You see orange and white in the distance. Is it your control or the popcorn stand in the park?",
+    "category": "mixed",
+    "difficulty": 1,
+    "quiz": "control",
+    "time": 0
+  },
+  {
+    "id": 3,
+    "name": "Second Control",
+    "description": "You see orange and white in the distance. Is it your control or the popcorn stand in the park?",
+    "category": "mixed",
+    "difficulty": 1,
+    "quiz": "control",
+    "time": 0
+  }
+]
