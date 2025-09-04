@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "challenges": [
+    {
+      "id": 1,
+      "name": "Perdido no mundo",
+      "description": "Todo grande orientista já começou perdido alguma vez. Cada símbolo decifrado é um passo a menos no mato errado! Complete seu primeiro desafio!",
+      "quiz": "map",
+      "symbolsQuiz": [
+        {"id": 109, "name": "Small Knoll"},
+        {"id": 401, "name": "Open Land"},
+        {"id": 417, "name": "Prominent Tree"},
+        {"id": 501, "name": "Paved Area"},
+        {"id": 513.1, "name": "Wall"},
+        {"id": 520, "name": "Out-of-bounds Area"},
+        {"id": 521, "name": "Building"},
+        {"id": 701, "name": "Start"},
+        {"id": 703, "name": "Control Point"},
+        {"id": 706, "name": "Finish"}
+      ],
+      "ids": [109, 401, 417, 501, 513.1, 520, 521, 701, 703, 706]
+    },
+    {
+      "id": 2,
+      "name": "Tesouro ou Poste",
+      "description": "Isso é uma árvore ou só uma moita bombada? São linhas de energia ou parecem varal de roupa?\nMas esse “X” só pode ser um tesouro… não, era só um poste.",
+      "quiz": "map",
+      "symbolsQuiz": [
+        {"id": 402, "name": "Open Area with Scattered Trees"},
+        {"id": 405, "name": "Florest"},
+        {"id": 418, "name": "Moita"},
+        {"id": 419, "name": "Prominent vegetation feature"},
+        {"id": 502, "name": "Wide road"},
+        {"id": 505, "name": "Footpath"},
+        {"id": 510, "name": "Power line"},
+        {"id": 530, "name": "Prominent man-made feature - ring"},
+        {"id": 531, "name": "Prominent man-made feature - x"},
+        {"id": 709, "name": "Out-of-bounds area"}
+      ],
+      "ids": [402, 405, 417, 419, 502, 505, 510, 530, 531, 709]
+    },
+    {
+      "id": 3,
+      "name": "Buraco negro",
+      "description": "Afinal esse buraco negro é marrom? O único mistério maior que o espaço sideral é descobrir se aquilo era um montículo ou só uma lombada de terra mal-humorada.",
+      "quiz": "map",
+      "symbolsQuiz": [
+        {"id": 202, "name": "cliff"},
+        {"id": 203, "name": "rocky pit"},
+        {"id": 204, "name": "boulder"},
+        {"id": 104, "name": "earth bank"},
+        {"id": 107, "name": "erosion gully"},
+        {"id": 505, "name": "Footpath"},
+        {"id": 418, "name": "Moita"},
+        {"id": 401, "name": "open land"},
+        {"id": 109, "name": "Small Knoll"},
+        {"id": 112, "name": "pit"}
+      ],
+      "ids": [202, 203, 204, 104, 107, 505, 418, 401, 109, 112]
+    },
+    {
+      "id": 4,
+      "name": "Pântano perdido",
+      "description": "Cuidado, o chão firme é só ilusão e a lama já alcançou seus joelhos. Se bem que é melhor lama que acabar caindo no rio.",
+      "quiz": "map",
+      "symbolsQuiz": [
+        {"id": 301, "name": "Uncrossable Body of water"},
+        {"id": 308, "name": "Marsh"},
+        {"id": 307, "name": "Uncrossable Marsh"},
+        {"id": 304, "name": "Crossable Watercourse"},
+        {"id": 303, "name": "Waterhole"},
+        {"id": 311, "name": "Well"},
+        {"id": 309, "name": "Narrow Marsh"},
+        {"id": 312, "name": "Spring"},
+        {"id": 313, "name": "Prominent Water Feature"},
+        {"id": 418, "name": "Moita"}
+      ],
+      "ids": [301, 308, 307, 304, 303, 311, 309, 312, 313, 418]
+    }
+  ]
+}
