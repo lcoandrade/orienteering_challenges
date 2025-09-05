@@ -19,6 +19,25 @@
         {"id": 706, "name": "Finish"}
       ],
       "ids": [109, 401, 417, 501, 513.1, 520, 521, 701, 703, 706]
+    },
+    {
+      "id": 2,
+      "name": "Tesouro ou Poste",
+      "description": "Isso é uma árvore ou só uma moita bombada? São linhas de energia ou parecem varal de roupa?\nMas esse “X” só pode ser um tesouro… não, era só um poste.",
+      "quiz": "map",
+      "symbolsQuiz": [
+        {"id": 402, "name": "Open Area with Scattered Trees"},
+        {"id": 405, "name": "Florest"},
+        {"id": 418, "name": "Moita"},
+        {"id": 419, "name": "Prominent vegetation feature"},
+        {"id": 502, "name": "Wide road"},
+        {"id": 505, "name": "Footpath"},
+        {"id": 510, "name": "Power line"},
+        {"id": 530, "name": "Prominent man-made feature - ring"},
+        {"id": 531, "name": "Prominent man-made feature - x"},
+        {"id": 709, "name": "Out-of-bounds area"}
+      ],
+      "ids": [402, 405, 417, 419, 502, 505, 510, 530, 531, 709]
     }
   ]
 }
