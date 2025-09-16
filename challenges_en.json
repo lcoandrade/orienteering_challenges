@@ -22,8 +22,8 @@
     },
     {
       "id": 2,
-      "name": "Treasure or Post",
-      "description": "Is that a tree or just a beefed-up bush? Are those power lines or just a giant clothesline?\nAnd that 'X' must be a treasure... nope, just a post.",
+      "name": "Treasure Hunt",
+      "description": "Is that a tree or just a beefed-up bush? Are those power lines or just a giant clothesline?\nAnd that 'X' must be a treasure... nope, just a concrete box :(",
       "quiz": "map",
       "ids": [402, 405, 417, 419, 502, 505, 510, 530, 531, 709]
     }
