@@ -19,6 +19,13 @@
         {"id": 706, "name": "Finish"}
       ],
       "ids": [109, 401, 417, 501, 513.1, 520, 521, 701, 703, 706]
+    },
+    {
+      "id": 2,
+      "name": "Treasure or Post",
+      "description": "Is that a tree or just a beefed-up bush? Are those power lines or just a giant clothesline?\nAnd that 'X' must be a treasure... nope, just a post.",
+      "quiz": "map",
+      "ids": [402, 405, 417, 419, 502, 505, 510, 530, 531, 709]
     }
   ]
 }
