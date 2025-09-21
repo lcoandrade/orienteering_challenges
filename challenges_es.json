@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "challenges": [
+    {
+      "id": 1,
+      "name": "Perdido en el Mundo",
+      "description": "Todo gran orientador empezó perdiéndose alguna vez. ¡Cada símbolo que descifras es un paso menos en la dirección equivocada! ¡Completa tu primer desafío!",
+      "quiz": "map",
+      "ids": [109, 401, 417, 501, 513.1, 520, 521, 701, 703, 706]
+    },
+    {
+      "id": 2,
+      "name": "Búsqueda del Tesoro",
+      "description": "¿Eso es un árbol o solo un arbusto con esteroides? ¿Son líneas eléctricas o apenas un tendedero gigante? Y esa X debe ser un tesoro... ah no, es solo una mesa de picnic :(",
+      "quiz": "map",
+      "ids": [402, 405, 417, 419, 502, 505, 510, 530, 531, 709]
+    },
+    {
+      "id": 3,
+      "name": "Agujero Negro",
+      "description": "Vaya... ¿este agujero negro es en realidad marrón? El único misterio más grande que el espacio exterior es descifrar si esa cosa es un montículo o solo un malhumorado montón de tierra.",
+      "quiz": "map",
+      "ids": [202, 203, 204, 104, 107, 505, 418, 401, 109, 112]
+    }
+  ]
+}

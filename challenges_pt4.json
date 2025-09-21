@@ -42,7 +42,7 @@
     {
       "id": 3,
       "name": "Buraco negro",
-      "description": "Afinal esse buraco negro é marrom? O único mistério maior que o espaço sideral é descobrir se aquilo era um montículo ou só uma lombada de terra mal-humorada.",
+      "description": "Uai, é buraco marrom ou buraco negro? O único mistério maior que o espaço sideral é descobrir se aquilo era um montículo ou só uma lombada de terra mal-humorada.",
       "quiz": "map",
       "symbolsQuiz": [
         {"id": 202, "name": "cliff"},

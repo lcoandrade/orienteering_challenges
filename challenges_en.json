@@ -6,26 +6,21 @@
       "name": "Lost in the World",
       "description": "Every great orienteer has started out lost at some point. Each symbol you decipher is one less step in the wrong bush! Complete your first challenge!",
       "quiz": "map",
-      "symbolsQuiz": [
-        {"id": 109, "name": "Small Knoll"},
-        {"id": 401, "name": "Open Land"},
-        {"id": 417, "name": "Prominent Tree"},
-        {"id": 501, "name": "Paved Area"},
-        {"id": 513.1, "name": "Wall"},
-        {"id": 520, "name": "Out-of-bounds Area"},
-        {"id": 521, "name": "Building"},
-        {"id": 701, "name": "Start"},
-        {"id": 703, "name": "Control Point"},
-        {"id": 706, "name": "Finish"}
-      ],
       "ids": [109, 401, 417, 501, 513.1, 520, 521, 701, 703, 706]
     },
     {
       "id": 2,
       "name": "Treasure Hunt",
-      "description": "Is that a tree or just a beefed-up bush? Are those power lines or just a giant clothesline?\nAnd that 'X' must be a treasure... nope, just a concrete box :(",
+      "description": "Is that a tree or just a beefed-up bush? Are those power lines or just a giant clothesline?\nAnd that 'X' must be a treasure... nope, just a park table :(",
       "quiz": "map",
       "ids": [402, 405, 417, 419, 502, 505, 510, 530, 531, 709]
+    },
+    {
+      "id": 3,
+      "name": "Black Hole",
+      "description": "Huh. Is this black hole actually brown? The only mystery bigger than outer space is figuring out if that thing is a knoll or just a grumpy dirt bump.",
+      "quiz": "map",
+      "ids": [202, 203, 204, 104, 107, 505, 418, 401, 109, 112]
     }
   ]
 }

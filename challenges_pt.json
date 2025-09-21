@@ -23,7 +23,7 @@
     {
       "id": 2,
       "name": "Caça ao Tesouro",
-      "description": "Isso é uma árvore ou só uma moita bombada? São linhas de energia ou parecem varal de roupa?\nMas esse “X” só pode ser um tesouro… não, era só um cubo de concreto :(",
+      "description": "Isso é uma árvore ou só uma moita bombada? São linhas de energia ou parecem varal de roupa?\nMas esse “X” só pode ser um tesouro… não, era só uma mesa do parque :(",
       "quiz": "map",
       "symbolsQuiz": [
         {"id": 402, "name": "Open Area with Scattered Trees"},
