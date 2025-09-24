@@ -11,7 +11,7 @@
     {
       "id": 2,
       "name": "Treasure Hunt",
-      "description": "Is that a tree or just a beefed-up bush? Are those power lines or just a giant clothesline?\nAnd that 'X' must be a treasure... nope, just a park table :(",
+      "description": "Is that a tree or just a beefed-up bush? Are those power lines or just a giant clothesline?\nAnd that 'X' must be a treasure... nope, just a picnic table :(",
       "quiz": "map",
       "ids": [402, 405, 417, 419, 502, 505, 510, 530, 531, 709]
     },
